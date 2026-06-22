@@ -1,0 +1,12 @@
+{
+    "Format": "2.3.0",
+    "Changes": [
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/JunimoNote",
+            "FromFile": "assets/LooseSprites/JunimoNote.png",
+            "ToArea": {"X": 487, "Y": 110, "Width": 135, "Height": 51},
+            "PatchMode": "Overlay"
+        }
+    ]
+}
