@@ -16,10 +16,11 @@
     "Author": "voidandcaffeine",
     "Version": "0.1.0",
     "Description": "Challenging Modded Community Center Bundles",
-    "UniqueID": "voidandcaffeine.CCCBModded",
+    "UniqueID": "voidandcaffeine.CCCBData",
     "MinimumApiVersion": "4.0.0",
     "ContentPackFor": {
         "UniqueID": "alja.void.CCCB",
         "MinimumVersion": "3.5.2"
-    }
+    },
+    "UpdateKeys": []
 }

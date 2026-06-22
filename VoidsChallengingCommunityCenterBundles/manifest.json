@@ -15,12 +15,11 @@
   "Name": "Challenging Community Center Bundles",
   "Author": "alvadea & jaksha",
   "Version": "3.5.2",
-  "Description": "Challenging Community Center Bundles - Main Files",
-  "UniqueID": "alja.void.CCCB",
+  "Description": "Challenging Community Center Bundles - Main Files - Redistributed per section 4 of the gpl-3.0",
+  "UniqueID": "voidandcaffeine.CCCB",
   "EntryDll": "ChallengingCommunityCenterBundles.dll",
   "MinimumApiVersion": "4.0.0",
-  "UpdateKeys": [],
   "Dependencies": [
-    { "IsRequired": true, "UniqueID": "voidandcaffeine.CCCBModded" }
+    { "IsRequired": true, "UniqueID": "voidandcaffeine.CCCBData" }
   ]
 }
