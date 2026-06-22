@@ -19,7 +19,7 @@
     "UniqueID": "voidandcaffeine.CCCBData",
     "MinimumApiVersion": "4.0.0",
     "ContentPackFor": {
-        "UniqueID": "alja.void.CCCB",
+        "UniqueID": "voidandcaffeine.CCCB",
         "MinimumVersion": "3.5.2"
     },
     "UpdateKeys": []
