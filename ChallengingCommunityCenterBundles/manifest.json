@@ -16,8 +16,11 @@
   "Author": "alvadea & jaksha",
   "Version": "3.5.2",
   "Description": "Challenging Community Center Bundles - Main Files",
-  "UniqueID": "alja.CCCB",
+  "UniqueID": "alja.void.CCCB",
   "EntryDll": "ChallengingCommunityCenterBundles.dll",
   "MinimumApiVersion": "4.0.0",
-  "UpdateKeys": [ "Nexus:6361" ]
+  "UpdateKeys": [],
+  "Dependencies": [
+    { "IsRequired": true, "UniqueID": "voidandcaffeine.CCCBModded" }
+  ]
 }

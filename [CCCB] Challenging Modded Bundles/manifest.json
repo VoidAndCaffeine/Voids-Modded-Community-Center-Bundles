@@ -12,20 +12,14 @@
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 {
-    "Name": "Challenging Community Center Bundles - Vanilla SVE Bundle Pack",
-    "Author": "alvadea & jaksha",
-    "Version": "3.5.2",
-    "Description": "Challenging Vanilla SVE Community Center Bundles",
-    "UniqueID": "alja.CCCBVanillaSVE",
+    "Name": "Void's Modded Community Center Bundles",
+    "Author": "voidandcaffeine",
+    "Version": "0.1.0",
+    "Description": "Challenging Modded Community Center Bundles",
+    "UniqueID": "voidandcaffeine.CCCBModded",
     "MinimumApiVersion": "4.0.0",
     "ContentPackFor": {
-        "UniqueID": "alja.CCCB",
+        "UniqueID": "alja.void.CCCB",
         "MinimumVersion": "3.5.2"
-    },
-    "Dependencies": [
-        {
-            "UniqueID": "FlashShifter.StardewValleyExpandedCP",
-            "IsRequired": true
-        }
-    ]
+    }
 }
