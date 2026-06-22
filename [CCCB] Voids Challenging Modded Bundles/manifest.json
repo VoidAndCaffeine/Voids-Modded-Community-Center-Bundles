@@ -22,5 +22,8 @@
         "UniqueID": "voidandcaffeine.CCCB",
         "MinimumVersion": "3.5.2"
     },
+    "Dependencies": [
+	{ "IsRequired": true, "UniqueID": "Nahlbrii.CCCC" }, // Completionist's Complete Community Center, to require all 12 items for every bundle, tbh I've read it and I'm not sure how it works, but it does so I'm happy
+    ],
     "UpdateKeys": []
 }
