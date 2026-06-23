@@ -17,84 +17,118 @@
 		//FORMAT Name of bundle/PrizeItemType PrizeItemID PrizeQuantity#/RequiredItemID RequiredItemQuantity# RequiredItemQuality# etc.../PositionOfLittleBundleImageToUseFromJunimoNotePNG/HowManyRequiredItemsNeededToCompleteBundle/Mods\\ModID\\bundlesprite:PositionOfMainBundleImageToUseFromCustomPNG
 
 //BEGIN PANTRY
+		// Spring Crops
                 "Spring Crops": "Spring Crops/O 645 4/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/5/12/0",
 
+		// Summer Crops
                 "Summer Crops": "Summer Crops/O 789 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/4/12/1",
 
+		// Fall Crops
                 "Fall Crops": "Fall Crops/O 919 5/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/3/12/2",
 
-                "Quality Crops": "Quality Crops/BO 25 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/2/12/3",
+		// Winter Crops
+                "Quality Crops": "Winter Crops/BO 25 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/2/12/3",
 
-                "Rare Crops": "Rare Crops/BO 25 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/2/12/LooseSprites\\BundleSprites:3",
+		// Orchard
+                "Garden": "Orchard/BO 19 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/LooseSprites\\BundleSprites:7",
 
-                "Animal": "Animal/BO 19 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/4",
+		// Cheeses
+                "Animal": "Cheeses/BO 19 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/4",
 
-                "Garden": "Garden/BO 19 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/LooseSprites\\BundleSprites:7",
-
+		// Artisan
                 "Artisan": "Artisan/BO 117 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/0/12/5",
 
-                "Brewer's": "Brewer's/BO 117 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/3/12/LooseSprites\\BundleSprites:2",
+		// Meat and Meat dishes
+                "Rare Crops": "Meat and Meat Dishes/BO 25 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/2/12/LooseSprites\\BundleSprites:3",
+
+		// Beverages
+                "Brewer's": "Beverages/BO 117 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/3/12/LooseSprites\\BundleSprites:2",
 
 //END PANTRY
 
 //BEGIN FISHTANK
 
+		// River Fish
                 "River Fish": "River Fish/BO 154 2/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/6/12/6",
 
+		// Lake Fish
                 "Lake Fish": "Lake Fish/O 774 50/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/0/12/7",
 
+		// Ocean Fish
                 "Ocean Fish": "Ocean Fish/O 275 3/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/5/12/8",
                 
+		// Night Fish
                 "Night Fishing": "Night Fishing/O 242 10/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/9",
 
-                "Specialty Fish": "Specialty Fish/C 1157 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/4/12/10",
+		// Oddities
+                "Specialty Fish": "Oddities/C 1157 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/4/12/10",
 
-                "Quality Fish": "Quality Fish/C 1157 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/4/12/LooseSprites\\BundleSprites:4",
+		// Beachcombing
+                "Quality Fish": "Beachcombing/C 1157 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/4/12/LooseSprites\\BundleSprites:4",
 
-                "Master Fisher's": "Master Fisher's/C 1157 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/4/12/12",
+		// Fish Dishes
+                "Master Fisher's": "Fish Dishes/C 1157 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/4/12/12",
 
-                "Crab Pot": "Crab Pot/F 1675 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/11",
+		// Artisanal Fish
+                "Crab Pot": "Artisanal Fish/F 1675 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/11",
 
-                "Fish Farmer's": "Fish Farmer's/BO 19 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/5/12/LooseSprites\\BundleSprites:8",
+		// More Interesting Fish
+                "Fish Farmer's": "More Interesting Fish/BO 19 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/5/12/LooseSprites\\BundleSprites:8",
 
 //END FISHTANK
 
 //BEGIN CRAFTSROOM
 
+		// Spring Foraging
                 "Spring Foraging": "Spring Foraging/O 368 30/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/0/12/13",
 
+		// Summer Foraging
                 "Summer Foraging": "Summer Foraging/BO 10 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/3/12/14",
 
+		// Fall Foraging
                 "Fall Foraging": "Fall Foraging/BO 105 3/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/2/12/15",
 
+		// Winter Foraging
                 "Winter Foraging": "Winter Foraging/O 251 5/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/6/12/16",
 
+		// Construction
                 "Construction": "Construction/BO 208 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/4/12/17",
 
-                "Sticky": "Sticky/BO 114 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/3/12/LooseSprites\\BundleSprites:10",
+		// Textiles
+                "Sticky": "Textiles/BO 114 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/3/12/LooseSprites\\BundleSprites:10",
 
-                "Forest": "Forest/BO Dehydrator 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/0/12/LooseSprites\\BundleSprites:12",
+		// Overgrown
+                "Forest": "Overgrown/BO Dehydrator 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/0/12/LooseSprites\\BundleSprites:12",
 
-                "Exotic Foraging": "Exotic Foraging/O 633 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/19",
+		// Luxury Goods
+                "Exotic Foraging": "Luxury Goods/O 633 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/19",
 
-                "Wild Medicine": "Wild Medicine/O 630 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/0/12/LooseSprites\\BundleSprites:9",
+		// Lotions and Potions
+                "Wild Medicine": "Lotions and Potions/O 630 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/0/12/LooseSprites\\BundleSprites:9",
 
 //END CRAFTSROOM
 
 //BEGIN BOILERROOM
 
-                "Blacksmith's": "Blacksmith's/O 749 25/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/2/12/20",
+		// Smithing
+                "Blacksmith's": "Smithing/O 749 25/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/2/12/20",
 
-                "Geologist's": "Geologist's/BO 182 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/21",
+		// Geology
+                "Geologist's": "Geology/BO 182 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/21",
 
-                "Adventurer's": "Adventurer's/BO 158 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/22",
+		// Adventure
+                "Adventurer's": "Adventure/BO 158 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/22",
 
+		// Treasure Hunters'
                 "Treasure Hunter's": "Treasure Hunter's/BO 21 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/4/12/LooseSprites\\BundleSprites:1",
 
-                "Engineer's": "Engineer's/BO 214 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/LooseSprites\\BundleSprites:11",
+		// Bones
+                "Engineer's": "Bones/BO 214 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/LooseSprites\\BundleSprites:11",
 
+		// Spirit's Eve
                 "Spirit's Eve": "Spirit's Eve/F WizardStudy 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/LooseSprites\\BundleSprites:19",
 
+		// Winter Star
                 "Winter Star": "Winter Star/O GoldenMysteryBox 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/4/12/LooseSprites\\BundleSprites:20",
 
 //END BOILERROOM
@@ -113,23 +147,32 @@
 
 //BEGIN BULLETIN BOARD
 
-                "Chef's": "Chef's/O 341 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/4/12/31",
+		// Gourmet Chef's
+                "Chef's": "Gourmet Chef's/O 341 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/4/12/31",
 
-                "Field Research": "Field Research/O 107 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/5/12/32",
+		// Ecologist
+                "Field Research": "Ecologist's/O 107 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/5/12/32",
 
-                "Enchanter's": "Enchanter's/R 527 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/33",
+		// Sorcery
+                "Enchanter's": "Sorcery/R 527 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/1/12/33",
 
-                "Dye": "Dye/F Clothesline 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/6/12/34",
+		// Royal
+                "Dye": "Royal/F Clothesline 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/6/12/34",
 
-                "Fodder": "Fodder/BO 167 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/3/12/35",
+		// Luck
+                "Fodder": "Luck/BO 167 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/3/12/35",
 
+		// Children's
                 "Children's": "Children's/BO 107 1/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/0/12/LooseSprites\\BundleSprites:0",
 
-                "Forager's": "Forager's/O 908 30/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/2/12/LooseSprites\\BundleSprites:5",
+		// Medicine
+                "Forager's": "Medicine/O 908 30/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/2/12/LooseSprites\\BundleSprites:5",
 
+		// Home Cook's
                 "Home Cook's": "Home Cook's/O 926 25/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/3/12/LooseSprites\\BundleSprites:6",
 
-                "Helper's": "Helper's/O TreasureTotem 5/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/4/12/LooseSprites\\BundleSprites:13",
+		// War Supplies // the connotations of this one are a little silly, are the junimos contributing to the war effort? but i had interesting ideas so why not.
+                "Helper's": "War Supplies/O TreasureTotem 5/789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0 789 1 0/4/12/LooseSprites\\BundleSprites:13",
 
 //END BULLETIN BOARD
 
